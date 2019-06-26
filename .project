@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Trabalho-Thiago</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.wst.common.project.facet.core.builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.m2e.core.maven2Builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.eclipse.m2e.core.maven2Nature</nature>
+		<nature>org.eclipse.wst.common.project.facet.core.nature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/main/java/model/ItemPedido.java</name>
+			<type>1</type>
+			<location>C:/Users/Patrick Martins/Tester/ItenPedido.java</location>
+		</link>
+		<link>
+			<name>src/main/java/model/Pedido.java</name>
+			<type>1</type>
+			<location>C:/Users/Patrick Martins/Tester/Pedido.java</location>
+		</link>
+		<link>
+			<name>src/main/java/model/Produto.java</name>
+			<type>1</type>
+			<location>C:/Users/Patrick Martins/Tester/Produto.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>
